@@ -1,6 +1,6 @@
 # Trabajo Práctico N° 1
 
-##Ignorar un archivo en Git usando .gitignore:
+## Ignorar un archivo en Git usando .gitignore:
 
 1. Crear archivo .gitignore en la raiz del repositorio
 
