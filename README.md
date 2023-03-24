@@ -5,7 +5,7 @@
 1. Crear archivo .gitignore en la raiz del repositorio
 
 2. En este archivo se pueden incluir patrones de archivos o directorios que deben 
-   ser ignorados por git, *UNO POR LINEA*.
+   ser ignorados por git, **UNO POR LINEA**.
 
 3. Los patrones de archivo pueden incluir nombre de archivo o directorio, 
    extensiones de archivo, expresiones regulares, entre otros.
